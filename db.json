@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "74e5",
+      "username": "om",
+      "password": "$2a$05$6cr1d8V8s9qrEusmWE/cl.QeopMDBW7UTQi.upgi0ozKYHTOI64Ji",
+      "email": "om@gmail.com"
+    },
+    {
+      "id": "4563",
+      "username": "om1",
+      "password": "$2a$05$yf9KbryGKecy5JQm2zdVvetby8kEHiGZjT6ujY34soSooRuC1IDxi",
+      "email": "om1@gmail.com"
+    },
+    {
+      "id": "46c0",
+      "username": "vishnu",
+      "password": "$2a$05$D0QUNV/D41kJIGYbFHc78.4GuVLkIJpdIw8EwzuvlhKiBuXNoRlV6",
+      "email": "vishnu@gmail.com"
+    },
+    {
+      "id": "436c",
+      "username": "sangeetha",
+      "password": "$2a$05$VbRTbVZQXcYHfEOQRNGYJ.7fYoODsm8Pa7TKhMTdi2kFVzCzyzVq.",
+      "email": "sangeetha@gmail.com"
+    }
+  ]
+}
